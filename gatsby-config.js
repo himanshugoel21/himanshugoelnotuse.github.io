@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `Himanshu Goel`,
+    name: `Himanshu`,
+    siteUrl: `https://himanshugoel.in`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `👋Hi! This is Himanshu! and Welcome to my small home on the Internet.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/himanshugoel21`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/himanshugoel21`,
       },
       {
         name: `instagram`,
@@ -59,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-118232427-3",
+        trackingId: "",
       },
     },
   ],
